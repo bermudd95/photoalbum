@@ -1,0 +1,21 @@
+*, *::before, *::after {
+    font-family: Helvetica, sans-serif;
+    background-color: aquamarine;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+p {
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 20%;
+}
+
+span {
+    font-weight: 700;
+    color: red;
+}
